@@ -1,1 +1,1 @@
-mongod --dbpath D:\mongo
+mongod --dbpath C:\mongoData --bind_ip_all
